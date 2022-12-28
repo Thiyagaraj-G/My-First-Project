@@ -1,0 +1,2 @@
+- name: Slack webhook channel notifications
+  uses: tiloio/slack-webhook-action@v1.1.2
